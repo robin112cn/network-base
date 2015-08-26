@@ -7,7 +7,7 @@
 		<version>0.0.1</version>
 	</parent>
 	<artifactId>cms-common</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.0</version>
 	<name>框架组件</name>
 	<description>框架组件</description>
 	<properties>
